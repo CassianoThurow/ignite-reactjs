@@ -2,9 +2,11 @@
     <img alt="Ignite ReactJS" title="Ignite ReactJS" src="./.github/ignite.png" />
 </h1>
 
+
 # 🚀 Sobre
 
-O Ignite é um programa de aceleração da Rocketseat acerca de diversas tecnologias. Esse repositório contém o código produzido para a trilha de ReactJS, dividido em capítulos.
+O Ignite é um programa de aceleração da Rocketseat acerca de diversas tecnologias. 
+Esse repositório contém o código produzido para a trilha de ReactJS, dividido em capítulos.
 
 # 📑 Conteúdo
 
