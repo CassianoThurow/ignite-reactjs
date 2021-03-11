@@ -17,6 +17,7 @@ Esse repositório contém o código produzido para a trilha de ReactJS, dividido
 - Chamadas HTTP
 - Usando Typescript
 - Finalizando a Aplicação
+- [Desafio](https://github.com/CassianoThurow/ignite-challenge01)
 
 ## 📝 Licença
 
