@@ -18,6 +18,7 @@ Esse repositório contém o código produzido para a trilha de ReactJS, dividido
 - Usando Typescript
 - Finalizando a Aplicação
 - [Desafio](https://github.com/CassianoThurow/ignite-challenge01)
+- -[Desafio opcional](https://github.com/CassianoThurow/ignitechallenge01-2)
 
 ## 📝 Licença
 
