@@ -3,25 +3,24 @@
 </h1>
 
 
-# 🚀 Sobre
+# 🚀 About
 
-O Ignite é um programa de aceleração da Rocketseat acerca de diversas tecnologias.
-Esse repositório contém o código produzido para a trilha de ReactJS, dividido em capítulos.
+Ignite is a Rocketseat acceleration program for several technologies. This repository contains the code produced for a ReactJS track, divided into chapters.
 
-# 📑 Conteúdo
+# 📑 Content
 
-## Chapter #1: [Fundamentos do ReactJS](https://github.com/CassianoThurow/01-github-explorer)
+## Chapter #1: Fundamentals of ReactJS](https://github.com/CassianoThurow/01-github-explorer)
 
-- Configurando o Ambiente
-- Conceitos Importantes
-- Chamadas HTTP
-- Usando Typescript
-- Finalizando a Aplicação
-- [Desafio](https://github.com/CassianoThurow/ignite-challenge01)
-- -[Desafio opcional](https://github.com/CassianoThurow/ignitechallenge01-2)
+- Setting up the environment
+- Important Concepts
+- HTTP calls
+- Using Typescript
+- Finalizing the Application
+- [Challange](https://github.com/CassianoThurow/ignite-challenge01)
+- -[Optional Challange](https://github.com/CassianoThurow/ignitechallenge01-2)
 
-## 📝 Licença
+## 📝 License
 
-Este projeto esta sob a licença MIT.
+This project is under the MIT license.
 
-Feito com ☕ por [Cassiano Thurow](https://www.linkedin.com/in/cassiano-thurow/)!
+make with ☕ by [Cassiano Thurow](https://www.linkedin.com/in/cassiano-thurow/)!
