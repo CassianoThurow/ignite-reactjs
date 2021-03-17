@@ -9,7 +9,7 @@ Ignite is a Rocketseat acceleration program for several technologies. This repos
 
 # 📑 Content
 
-## Chapter #1: Fundamentals of ReactJS](https://github.com/CassianoThurow/01-github-explorer)
+## Chapter #1: [Fundamentals of ReactJS](https://github.com/CassianoThurow/01-github-explorer)
 
 - Setting up the environment
 - Important Concepts
