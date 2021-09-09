@@ -29,6 +29,10 @@ Ignite is a Rocketseat acceleration program for several technologies. This repos
 - [Challange](https://github.com/CassianoThurow/ignite-challenge02)
 - [Optional Challange](#)
 
+## Chapter #3: [Fundamentals Next.JS/Back-end on Front-end/JAMStack](https://github.com/CassianoThurow/03-ignews)
+- [Challange](#)
+- [Optional Challange](#)
+
 ## 📝 License
 
 This project is under the MIT license.
