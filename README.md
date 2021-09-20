@@ -27,7 +27,7 @@ Ignite is a Rocketseat acceleration program for several technologies. This repos
 - Modal and Forms
 - Contexts and hooks
 - [Challange](https://github.com/CassianoThurow/ignite-challenge02)
-- [Optional Challange](#)
+- [Optional Challange](https://github.com/CassianoThurow/ignitechallenge02-2)
 
 ## Chapter #3: [Fundamentals Next.JS/Back-end on Front-end/JAMStack](https://github.com/CassianoThurow/03-ignews)
 - [Challange](#)
